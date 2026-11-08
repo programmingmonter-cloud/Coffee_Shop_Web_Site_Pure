@@ -41,7 +41,7 @@ No dependencies or build tools are required:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/masterhackingalfa-star/Mern-Stack-Project-1.git
+   git clone https://github.com/programmingmonter-cloud/Coffee_Shop_Web_Site_Pure.git
    ```
 2. **Navigate to the project folder**
    ```bash
@@ -89,9 +89,9 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 
 ## 📬 Contact
 
-- **Name:** Your Name
-- **Email:** your@email.com
-- **GitHub:** [@USERNAME](https://github.com/masterhackingalfa-star/)
+- **Name:** Monster Programming
+- **Email:** monsterprogramming@gmail.com
+- **GitHub:** [@USERNAME](https://github.com/programmingmonter-cloud)
 
 ---
 
